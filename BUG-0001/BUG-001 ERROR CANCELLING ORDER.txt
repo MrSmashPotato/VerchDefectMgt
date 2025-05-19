@@ -1,0 +1,43 @@
+Verch v1.0 1stpass Order Cancel [Feature]: Cancel order not working
+
+[Summary]
+  Cancelling order is unsuccessful.
+
+[Precondition]
+ Software version: Verch v1.0
+ Software configuration: Google Chrome / Mozilla Firefox / Microsoft Edge
+ Hardware specifications: Desktop or Laptop PC
+ Network configuration: Any
+
+[Steps to reproduce]
+ 1. Place an order
+ 2. Go to orders >> track orders
+ 3. Click action >> cancel order
+ 4. Enter reason
+
+[Actual results]
+ There is an error cancelling the order.
+
+[Expected results]
+ The order can be cancelled successfully.
+
+[Additional information]
+ See attached logs and screenshot...
+
+[Is this Breakage?]
+ No, new implementation
+ 
+[Severity: How does this problem impact the customer/user?]
+ 2. moderate GUI, usability, and accessibility issue
+
+[Likelihood: How often will a customer/user use this feature/function?]
+ 2. moderate
+
+[Repeatability: Is this problem easily reproducible?]
+ 10. 100% Reproducible
+
+[Impacted Test Cases]
+ ORD-0003
+
+[Impact Sizing (in days)]
+ Less than a day
