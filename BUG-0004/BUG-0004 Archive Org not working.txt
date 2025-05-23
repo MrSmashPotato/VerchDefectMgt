@@ -1,0 +1,43 @@
+Verch v1.0 3rdpass Organization [Feature]: Archive Organization not working
+
+[Summary]
+  Archive Organization not working.
+
+[Precondition]
+ Software version: Verch v1.0
+ Software configuration: Google Chrome / Mozilla Firefox / Microsoft Edge
+ Hardware specifications: Desktop or Laptop PC
+ Network configuration: Any
+
+[Steps to reproduce]
+ 1. Log in using an admin.
+ 2. Go to organization.
+ 3. Click action beside any organization.
+ 
+
+[Actual results]
+ The pages refresh but the organization is still available.
+
+[Expected results]
+ Organization will be archived.
+
+[Additional information]
+ See attached and screenshot...
+
+[Is this Breakage?]
+ No
+ 
+[Severity: How does this problem impact the customer/user?]
+ moderate GUI, usability, and accessibility issue
+
+[Likelihood: How often will a customer/user use this feature/function?]
+ moderate
+
+[Repeatability: Is this problem easily reproducible?]
+ 100% Reproducible
+
+[Impacted Test Cases]
+ORG-0007
+
+[Impact Sizing (in days)]
+ Less than a day
