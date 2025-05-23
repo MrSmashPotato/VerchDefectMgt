@@ -1,0 +1,43 @@
+Verch v1.0 2ndpass User [Feature]: Change not available
+
+[Summary]
+  No Change Email available.
+
+[Precondition]
+ Software version: Verch v1.0
+ Software configuration: Google Chrome / Mozilla Firefox / Microsoft Edge
+ Hardware specifications: Desktop or Laptop PC
+ Network configuration: Any
+
+[Steps to reproduce]
+ 1. Go to Profile
+ 2. Profile information
+ 3. Click edit
+ 4. Change email is not in the choices.
+
+[Actual results]
+ Change email not available.
+
+[Expected results]
+ User email is edited successfully..
+
+[Additional information]
+ See attached logs and screenshot...
+
+[Is this Breakage?]
+ No
+ 
+[Severity: How does this problem impact the customer/user?]
+ moderate GUI, usability, and accessibility issue
+
+[Likelihood: How often will a customer/user use this feature/function?]
+ moderate
+
+[Repeatability: Is this problem easily reproducible?]
+ 100% Reproducible
+
+[Impacted Test Cases]
+ USER-0002
+
+[Impact Sizing (in days)]
+ Less than a day
